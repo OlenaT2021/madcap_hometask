@@ -5,12 +5,11 @@
   Host="ftp.myftpserver.com"
   User="MyAccountId"
   Password=""
-  Directory="C:\Users\o.tyshkevych\Documents\GitHub\madcap_test\docs"
+  Directory="C:\Users\o.tyshkevych\Documents\MadCap Flare\Santaluz\Agile software development methodology\Output\o_tyshkevych\HTML5 - Top Navigation\docs"
   Port=""
   ViewUrl="http://www.madcapsoftware.com/"
   Type="scm"
   ProviderType="Git"
-  Database="file:///C:/Users/o.tyshkevych/Documents/GitHub/madcap_test/.git/"
-  DatabaseRoot="file:///C:/Users/o.tyshkevych/Documents/GitHub/madcap_test/docs"
-  PushToRemote="true"
-  RemoteRepository="origin"></CatapultDestination>
+  Database="file:///C:/Users/o.tyshkevych/Documents/MadCap Flare/Santaluz/Agile software development methodology/.git/"
+  DatabaseRoot="file:///C:/Users/o.tyshkevych/Documents/MadCap Flare/Santaluz/Agile software development methodology/Output/o_tyshkevych/HTML5 - Top Navigation/docs"
+  PushToRemote="true"></CatapultDestination>
